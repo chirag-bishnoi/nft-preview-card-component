@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Link
 
-- Solution URL: [Click Here!](https://your-solution-url.com)
+- Solution URL: [Click Here!](https://chirag-bishnoi.github.io/nft-preview-card-component)
 
 ### Built with
 
